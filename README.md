@@ -7,7 +7,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/hamed4321/Weather-Trends.git
-> cd ReduxSimpleStarter
+> cd Weather-Trends
 > npm install
 > npm start
 ```
